@@ -1,3 +1,5 @@
+#Coded By Surjo Dey
+
 #Import modules
 import random
 from tkinter import messagebox
@@ -59,4 +61,3 @@ password_button.place(x=100,y=100)
 #Exit and close the app
 password_gen.mainloop()
 
-#Coded By Surjo Dey
